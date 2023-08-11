@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamahedi&show_icons=true&locale=en" alt="hamahedi" /></p>
 
-![hamahedi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamahedi&theme=vue-dark&hide_border=true)
+![hamahedi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hamahedi&theme=vue&hide_border=true)
