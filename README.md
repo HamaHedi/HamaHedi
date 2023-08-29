@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **reactJs , JavaScript , NodeJs**
 
-- 📫 How to reach me **mohamedbenjedida18@mail.com**
+- 📫 How to reach me **mohamedbenjedida18@gmail.com**
 
 - ⚡ Fun fact **I love camping and video games**
 
