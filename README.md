@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, TypeScript, css, Python, TenserFlow, Machine Learning ....**
 
-- 📫 How to reach me **mohamedbenjedida@gmail.com**
+- 📫 How to reach me **mohamedbenjedida18@gmail.com**
 
 - 📄 Know about my experiences [frontend developer with 2 years of experience](frontend developer with 2 years of experience)
 
