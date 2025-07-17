@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mohamedbenjedida18@gmail.com**
 
-- 📄 Know about my experiences [frontend developer with 2 years of experience](frontend developer with 2 years of experience)
+- 📄 Know about my experiences [frontend developer with 3 years of experience](frontend developer with 3 years of experience)
 
 - ⚡ Fun fact **I like playing video games**
 
