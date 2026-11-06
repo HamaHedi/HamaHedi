@@ -1,39 +1,83 @@
-![MasterHead](http://www.atozgeeks.co.in/wp-content/uploads/2020/07/website-design-in-india-1.gif)
+ 
+<div align="center">
 
+# Hi 👋, I'm Mohamed Hedi Ben Jedida
 
+### Full-Stack Developer | 4 Years of Experience | Data Science & AI Enthusiast
 
+Building modern, scalable web applications and exploring the power of data and artificial intelligence.
 
+🇹🇳 Based in Tunisia
 
-<h1 align="center">Hi 👋, I'm Mohamed Hedi ben jdida</h1>
-<h3 align="center">A passionate frontend developer from Tunisia and a Data Science Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ben-jdida-mohamed-el-hedi/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/mohamedbenjdida)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mohamedbenjedida18@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamahedi&label=Profile%20views&color=0e75b6&style=flat" alt="hamahedi" /> </p>
+</div>
 
+---
 
-- 🌱 I’m currently learning **Flask, Python, DeepLearning**
+## 🚀 About Me
 
-- 💬 Ask me about **React, TypeScript, css, Python, TenserFlow, Machine Learning ....**
+I'm a **Full-Stack Developer with 4 years of experience** passionate about building reliable, scalable, and user-friendly applications.
 
-- 📫 How to reach me **mohamedbenjedida18@gmail.com**
+My experience covers the complete development lifecycle, from designing intuitive frontend interfaces to developing robust backend services and integrating databases and APIs.
 
-- 📄 Know about my experiences [frontend developer with 3 years of experience](frontend developer with 3 years of experience)
+I'm also a **Data Science and AI enthusiast**, interested in machine learning, deep learning, data analysis, and applying AI to solve real-world problems.
 
-- ⚡ Fun fact **I like playing video games**
+- 💻 Developing end-to-end web applications.
+- ⚛️ Working with React, Next.js, TypeScript, and modern frontend technologies.
+- ⚙️ Building backend services and APIs with Node.js and Python/FastAPI.
+- 🤖 Exploring Machine Learning, Deep Learning, and AI-powered applications.
+- 📊 Interested in Data Science, data analysis, and intelligent systems.
+- 🎮 Outside coding, I enjoy playing video games.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ben-jdida-mohamed-el-hedi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ben-jdida-mohamed-el-hedi/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/mohamedbenjdida" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/mohamedbenjdida" height="30" width="40" /></a>
-<a href="https://www.facebook.com/mohamed.benjedida.10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/mohamed.benjedida.10/" height="30" width="40" /></a>
+## 🛠️ Tech Stack
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,sass,tailwind,bootstrap,redux" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamahedi&show_icons=true&locale=en&layout=compact" alt="hamahedi" /></p>
+### Databases & Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamahedi&show_icons=true&locale=en" alt="hamahedi" /></p>
+### Data Science & Artificial Intelligence
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamahedi&" alt="hamahedi" /></p>
+### Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,figma,vscode" />
+</p>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=hamahedi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamahedi&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamahedi&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Always Learning. Always Building.
+
+*Turning ideas into applications and data into insights.*
+
+</div>
 
